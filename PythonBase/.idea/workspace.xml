@@ -2,19 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ef2dba3-dd76-444a-a179-a4b931602fcb" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/venv/Include/PythonBase_03/Python_01.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/PythonBase_03/Python_02.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/PythonBase_03/Python_03.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/PythonBase_03/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/PythonBase_03/example_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/PythonBase_03/example_02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/PythonBase_03/example_03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/PythonBase_03/homework_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/PythonBase_03/homework_02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/PythonBase_03/homework_03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Python_Test/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Python_Test/linked_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/PythonBase_04/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/PythonBase_04/homework.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/PythonBase_05/Python.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/PythonBase_05/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/PythonBase_05/example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/PythonBase_05/homework.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/PythonBase_03/Python_01.md" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Include/PythonBase_03/Python_01.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/PythonBase_03/Python_03.md" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Include/PythonBase_03/Python_03.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/PythonBase_03/example_03.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Include/PythonBase_03/example_03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/PythonBase_03/homework_03.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Include/PythonBase_03/homework_03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test.txt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,44 +23,22 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/PythonBase$homework.coverage" NAME="homework Coverage Results" MODIFIED="1531878121537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include/PythonBase_02" />
-    <SUITE FILE_PATH="coverage/PythonBase$example.coverage" NAME="example Coverage Results" MODIFIED="1531871308577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include/PythonBase_02" />
+    <SUITE FILE_PATH="coverage/PythonBase$homework.coverage" NAME="homework Coverage Results" MODIFIED="1531997093320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include/PythonBase_04" />
+    <SUITE FILE_PATH="coverage/PythonBase$homework__1_.coverage" NAME="homework (1) Coverage Results" MODIFIED="1532011108410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include/PythonBase_05" />
+    <SUITE FILE_PATH="coverage/PythonBase$example.coverage" NAME="example Coverage Results" MODIFIED="1532010293850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include/PythonBase_05" />
     <SUITE FILE_PATH="coverage/PythonBase$homework_01.coverage" NAME="homework_01 Coverage Results" MODIFIED="1531895611490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include/PythonBase_03" />
     <SUITE FILE_PATH="coverage/PythonBase$example_02__1_.coverage" NAME="example_02 (1) Coverage Results" MODIFIED="1531918859367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include/PythonBase_03" />
     <SUITE FILE_PATH="coverage/PythonBase$example_01.coverage" NAME="example_01 Coverage Results" MODIFIED="1531925391722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include/PythonBase_03" />
-    <SUITE FILE_PATH="coverage/PythonBase$example_03.coverage" NAME="example_03 Coverage Results" MODIFIED="1531926564519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include/PythonBase_03" />
+    <SUITE FILE_PATH="coverage/PythonBase$example_03.coverage" NAME="example_03 Coverage Results" MODIFIED="1531950520023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include/PythonBase_03" />
+    <SUITE FILE_PATH="coverage/PythonBase$homework_03.coverage" NAME="homework_03 Coverage Results" MODIFIED="1531953460093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include/PythonBase_03" />
     <SUITE FILE_PATH="coverage/PythonBase$example__1_.coverage" NAME="example (1) Coverage Results" MODIFIED="1531885909740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include/PythonBase_03" />
     <SUITE FILE_PATH="coverage/PythonBase$homework_02.coverage" NAME="homework_02 Coverage Results" MODIFIED="1531906502950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include/PythonBase_03" />
     <SUITE FILE_PATH="coverage/PythonBase$example_02.coverage" NAME="example_02 Coverage Results" MODIFIED="1531432642736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include/PythonBase_01" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Python_02.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_03/Python_02.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-550">
-                <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Python_03.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_03/Python_03.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="95">
-                <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="homework_01.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_03/homework_01.py">
+      <file leaf-file-name="homework.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_04/homework.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret selection-end-column="38" />
@@ -69,65 +46,77 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="example_02.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_03/example_02.py">
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_05/__init__.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="example.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_05/example.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="-2812">
               <caret selection-end-column="38" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="homework_03.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_03/homework_03.py">
+      <file leaf-file-name="homework.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_05/homework.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="342">
+              <caret line="115" column="22" selection-start-line="115" selection-start-column="22" selection-end-line="115" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="a.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_03/a.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" column="10" lean-forward="true" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+      <file leaf-file-name="Python.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_05/Python.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="338">
+                <caret line="52" column="47" selection-start-line="52" selection-start-column="47" selection-end-line="52" selection-end-column="47" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="example_03.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_03/example_03.py">
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_04/test.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="string_help_doc.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_04/string_help_doc.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="string.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_04/string.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="382">
-              <caret line="34" column="39" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="39" />
+            <state relative-caret-position="-660">
+              <caret line="67" column="8" lean-forward="true" selection-start-line="67" selection-start-column="8" selection-end-line="67" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="linked_list.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/Include/Python_Test/linked_list.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+      <file leaf-file-name="Python_01.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_03/Python_01.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="106">
+                <caret line="25" column="8" lean-forward="true" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="example_01.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_01/example_01.py">
+      <file leaf-file-name="string_help.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_04/string_help.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="example_01.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_03/example_01.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+            <state relative-caret-position="266">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -156,11 +145,17 @@
         <option value="$PROJECT_DIR$/venv/Include/PythonBase_03/homework_02.py" />
         <option value="$PROJECT_DIR$/venv/Include/PythonBase_03/Python_02.md" />
         <option value="$PROJECT_DIR$/venv/Include/PythonBase_03/example_02.py" />
-        <option value="$PROJECT_DIR$/venv/Include/PythonBase_03/homework_03.py" />
         <option value="$PROJECT_DIR$/venv/Include/PythonBase_03/example_01.py" />
-        <option value="$PROJECT_DIR$/venv/Include/PythonBase_03/Python_03.md" />
         <option value="$PROJECT_DIR$/venv/Include/Python_Test/linked_list.py" />
         <option value="$PROJECT_DIR$/venv/Include/PythonBase_03/example_03.py" />
+        <option value="$PROJECT_DIR$/venv/Include/PythonBase_03/Python_04.md" />
+        <option value="$PROJECT_DIR$/venv/Include/PythonBase_03/Python_03.md" />
+        <option value="$PROJECT_DIR$/venv/Include/PythonBase_03/homework_03.py" />
+        <option value="$PROJECT_DIR$/venv/Include/PythonBase_03/Python_01.md" />
+        <option value="$PROJECT_DIR$/venv/Include/PythonBase_04/homework.py" />
+        <option value="$PROJECT_DIR$/venv/Include/PythonBase_05/example.py" />
+        <option value="$PROJECT_DIR$/venv/Include/PythonBase_05/Python.md" />
+        <option value="$PROJECT_DIR$/venv/Include/PythonBase_05/homework.py" />
       </list>
     </option>
   </component>
@@ -173,11 +168,11 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="387" />
-    <option name="y" value="650" />
-    <option name="width" value="979" />
-    <option name="height" value="1024" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="978" />
+    <option name="height" value="1039" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -209,27 +204,7 @@
               <item name="PythonBase" type="462c0819:PsiDirectoryNode" />
               <item name="venv" type="462c0819:PsiDirectoryNode" />
               <item name="Include" type="462c0819:PsiDirectoryNode" />
-              <item name="PythonBase_01" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PythonBase" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonBase" type="462c0819:PsiDirectoryNode" />
-              <item name="venv" type="462c0819:PsiDirectoryNode" />
-              <item name="Include" type="462c0819:PsiDirectoryNode" />
-              <item name="PythonBase_02" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PythonBase" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonBase" type="462c0819:PsiDirectoryNode" />
-              <item name="venv" type="462c0819:PsiDirectoryNode" />
-              <item name="Include" type="462c0819:PsiDirectoryNode" />
-              <item name="PythonBase_03" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PythonBase" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonBase" type="462c0819:PsiDirectoryNode" />
-              <item name="venv" type="462c0819:PsiDirectoryNode" />
-              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+              <item name="PythonBase_05" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PythonBase" type="b2602c69:ProjectViewProjectNode" />
@@ -252,6 +227,14 @@
               <item name="&lt; Python 3.6 (PythonBase) &gt;" type="70bed36:NamedLibraryElementNode" />
               <item name="venv" type="b5f07198:RTreeStructureProvider$1" />
               <item name="Include" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonBase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 (PythonBase) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="venv" type="b5f07198:RTreeStructureProvider$1" />
+              <item name="Include" type="462c0819:PsiDirectoryNode" />
+              <item name="PythonBase_05" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -267,6 +250,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\PythonStudy\PythonBase\venv\Include\Python_Test" />
+      <recent name="E:\PythonStudy\PythonBase\venv\Include\PythonBase_03" />
       <recent name="E:\PythonStudy\PythonBase\venv\Include\PythonBase_01" />
     </key>
   </component>
@@ -282,8 +267,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.example_03">
-    <configuration name="example_01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.homework (1)">
+    <configuration name="example" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonBase" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -291,31 +276,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Include/PythonBase_03" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Include/PythonBase_05" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Include/PythonBase_03/example_01.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="example_02 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonBase" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Include/PythonBase_03" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Include/PythonBase_03/example_02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Include/PythonBase_05/example.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -340,7 +306,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="homework_01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="homework (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonBase" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -348,18 +314,37 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Include/PythonBase_03" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Include/PythonBase_05" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Include/PythonBase_03/homework_01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Include/PythonBase_05/homework.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="homework_02" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="homework" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonBase" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Include/PythonBase_04" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Include/PythonBase_04/homework.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="homework_03" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonBase" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -372,26 +357,26 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Include/PythonBase_03/homework_02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Include/PythonBase_03/homework_03.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.homework_01" />
-      <item itemvalue="Python.example_02 (1)" />
-      <item itemvalue="Python.homework_02" />
-      <item itemvalue="Python.example_01" />
       <item itemvalue="Python.example_03" />
+      <item itemvalue="Python.homework_03" />
+      <item itemvalue="Python.homework" />
+      <item itemvalue="Python.example" />
+      <item itemvalue="Python.homework (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.homework (1)" />
+        <item itemvalue="Python.example" />
+        <item itemvalue="Python.homework" />
+        <item itemvalue="Python.homework_03" />
         <item itemvalue="Python.example_03" />
-        <item itemvalue="Python.example_01" />
-        <item itemvalue="Python.example_02 (1)" />
-        <item itemvalue="Python.homework_02" />
-        <item itemvalue="Python.homework_01" />
       </list>
     </recent_temporary>
   </component>
@@ -409,16 +394,17 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="390" y="69" width="782" height="818" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5026042" side_tool="true" visible="true" weight="0.30539772" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5058594" side_tool="true" visible="true" weight="0.27486187" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49739584" weight="0.30539772" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49414062" weight="0.27486187" />
+      <window_info anchor="right" id="Coverage" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25260416" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1438802" />
       <window_info anchor="right" id="R Packages" order="3" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="R Graphics" order="3" />
@@ -426,7 +412,7 @@
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49867725" weight="0.3980447" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -451,133 +437,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_01/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_02/Python.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="703">
-            <caret line="37" column="20" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_02/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_02/homework.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" selection-start-line="13" selection-end-line="15" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_01/Python_02.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_01/Python_01.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="361">
-            <caret line="19" column="21" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="21" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_01/example_02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_02/example.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="969">
-          <caret line="52" column="16" selection-start-line="52" selection-start-column="16" selection-end-line="52" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_01/example_01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_01/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_02/Python.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="703">
-            <caret line="37" column="20" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_02/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_02/homework.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" selection-start-line="13" selection-end-line="15" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_01/Python_02.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_01/Python_01.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="361">
-            <caret line="19" column="21" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="21" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_01/example_02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_02/example.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="969">
-          <caret line="52" column="16" selection-start-line="52" selection-start-column="16" selection-end-line="52" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_01/example_01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_01/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_02/Python.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -663,32 +522,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_01/example_02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_01/Python_01.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="361">
-            <caret line="19" column="21" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="21" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_02/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_02/example.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="38" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_03/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
@@ -710,24 +545,112 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_03/homework_02.py">
+    <entry file="file://$PROJECT_DIR$/venv/Include/Python_Test/linked_list.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="38" />
+        <state relative-caret-position="76">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_03/Python_01.md">
+    <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_03/a.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/Python36/Lib/linecache.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="144" lean-forward="true" selection-start-line="144" selection-end-line="144" />
+          <folding>
+            <element signature="e#203#219#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_03/Python_03.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="551">
-            <caret line="29" column="31" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
+          <first_editor relative-caret-position="304">
+            <caret line="16" column="6" lean-forward="true" selection-end-line="67" selection-end-column="25" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_03/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="10" lean-forward="true" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/pyvenv.cfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_01/example_02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_01/example_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_01/Python_01.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="361">
+            <caret line="19" column="21" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="21" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_02/example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/1163738009/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="209" column="4" lean-forward="true" selection-start-line="209" selection-start-column="4" selection-end-line="209" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/Python36/Lib/string.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1596" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_04/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_03/homework_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3">
+          <caret selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_03/homework_02.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-column="38" />
@@ -736,70 +659,129 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_03/homework_03.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="241">
+          <caret line="34" column="20" lean-forward="true" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_04/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_03/Python_03.md">
+      <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="321">
+            <caret line="66" column="8" lean-forward="true" selection-start-line="66" selection-start-column="8" selection-end-line="66" selection-end-column="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1159">
+          <caret line="61" column="10" lean-forward="true" selection-start-line="61" selection-start-column="10" selection-end-line="61" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_03/info.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_03/example_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_03/example_02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="48" selection-start-line="48" selection-end-line="50" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_03/example_03.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_03/example_01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_03/Python_02.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-550">
-            <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+          <first_editor relative-caret-position="950">
+            <caret line="50" column="13" lean-forward="true" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_03/Python_03.md">
+    <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_03/Python_01.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="95">
-            <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+          <first_editor relative-caret-position="106">
+            <caret line="25" column="8" lean-forward="true" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_01/example_01.py">
+    <entry file="file://$PROJECT_DIR$/venv/Include/Python_Test/info.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="-4110" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_04/test.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_04/string_help_doc.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_04/homework.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Include/Python_Test/linked_list.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+    <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_05/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_05/Python.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="338">
+            <caret line="52" column="47" selection-start-line="52" selection-start-column="47" selection-end-line="52" selection-end-column="47" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_03/a.txt">
+    <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_04/string_help.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="10" lean-forward="true" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+        <state relative-caret-position="266">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_03/example_03.py">
+    <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_04/string.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
-          <caret line="34" column="39" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="39" />
+        <state relative-caret-position="-660">
+          <caret line="67" column="8" lean-forward="true" selection-start-line="67" selection-start-column="8" selection-end-line="67" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_05/example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2812">
+          <caret selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Include/PythonBase_05/homework.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="115" column="22" selection-start-line="115" selection-start-column="22" selection-end-line="115" selection-end-column="22" />
         </state>
       </provider>
     </entry>
